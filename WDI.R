@@ -1,6 +1,6 @@
 # ------------ Paquete WDI: Indicadores de Desarrollo Mundial
-# Este paquete permite acceder a más de 40 bases de datos del Banco Mundial:
-# Indicadores de desarrollo mundial, estadísticas de deuda internacional,
+# Este paquete permite acceder a más de 40 bases de datos del Banco Mundial,
+# indicadores de desarrollo mundial, estadísticas de deuda internacional,
 # doing business, el índice de capital humano y diversos indicadores de pobreza subnacional.
 # Información: https://cran.r-project.org/web/packages/WDI/WDI.pdf
 
